@@ -12,7 +12,6 @@ namespace _10B_Alapfeladatok
         {
             //Kérjünk be két számot, az egyik egy születési évszám, a másik az 
             //aktuális évszám! Számoljuk ki, hogy hány éves a személy!
-
             //Két változó létrehozása
             int aktevszam;
             int szulevszam;
