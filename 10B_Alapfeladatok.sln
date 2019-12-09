@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elagazas_03", "Elagazas_03\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elagazas_04", "Elagazas_04\Elagazas_04.csproj", "{66087BCB-9CEB-4B6C-9D7D-A427AF128C95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oszthatoe", "Oszthatoe\Oszthatoe.csproj", "{15121BD5-F011-49A1-8C03-EB7DF9978AA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{66087BCB-9CEB-4B6C-9D7D-A427AF128C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66087BCB-9CEB-4B6C-9D7D-A427AF128C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66087BCB-9CEB-4B6C-9D7D-A427AF128C95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15121BD5-F011-49A1-8C03-EB7DF9978AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15121BD5-F011-49A1-8C03-EB7DF9978AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15121BD5-F011-49A1-8C03-EB7DF9978AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15121BD5-F011-49A1-8C03-EB7DF9978AA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
