@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oszthatoe", "Oszthatoe\Oszt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OraPercMp", "OraPercMp\OraPercMp.csproj", "{D2B628E8-A1C4-4F89-8756-C16158F00816}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SzamoloGepSwitch", "SzamoloGepSwitch\SzamoloGepSwitch.csproj", "{392DE1DA-DB8B-4BFC-BFE7-BF71C28E43B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D2B628E8-A1C4-4F89-8756-C16158F00816}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2B628E8-A1C4-4F89-8756-C16158F00816}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2B628E8-A1C4-4F89-8756-C16158F00816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{392DE1DA-DB8B-4BFC-BFE7-BF71C28E43B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392DE1DA-DB8B-4BFC-BFE7-BF71C28E43B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392DE1DA-DB8B-4BFC-BFE7-BF71C28E43B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392DE1DA-DB8B-4BFC-BFE7-BF71C28E43B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
