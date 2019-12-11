@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SzamoloGepSwitch", "Szamolo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EletkorSwitch", "EletkorSwitch\EletkorSwitch.csproj", "{7C9D6657-5A2F-4C46-A6BC-2408C8D92C7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kevezmenyek", "Kevezmenyek\Kevezmenyek.csproj", "{FC18630E-EE15-4B71-A95F-21EA6FE8215B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{7C9D6657-5A2F-4C46-A6BC-2408C8D92C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C9D6657-5A2F-4C46-A6BC-2408C8D92C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C9D6657-5A2F-4C46-A6BC-2408C8D92C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC18630E-EE15-4B71-A95F-21EA6FE8215B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC18630E-EE15-4B71-A95F-21EA6FE8215B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC18630E-EE15-4B71-A95F-21EA6FE8215B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC18630E-EE15-4B71-A95F-21EA6FE8215B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
