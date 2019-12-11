@@ -10,6 +10,11 @@ namespace Oszthatoe
     {
         static void Main(string[] args)
         {
+            /*
+             Kérjünk be egy egész számot a felhasználótól és vizsgáljuk meg,
+             hogy osztható-e 7-tel. A program csak pozitív számokra
+             működjön, negatív szám esetén írjon ki hibaüzenetet!
+             */
 
             Console.Write("Kérek egy pozitív egész számot: ");
             int szam = int.Parse(Console.ReadLine());

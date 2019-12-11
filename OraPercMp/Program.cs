@@ -10,6 +10,13 @@ namespace OraPercMp
     {
         static void Main(string[] args)
         {
+
+            /*
+             *Készítsünk programot, amely bekér két, egy napon belüli
+              időpontot (óra, perc, másodperc formátumban. Számítsuk ki a két
+              időpont közti különbséget másodpercekben es írassuk ki a
+              képernyőre!
+             * */
             int osszmp1 = 0;
             int osszmp2 = 0;
 
