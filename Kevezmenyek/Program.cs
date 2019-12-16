@@ -24,7 +24,7 @@ namespace Kevezmenyek
             Készítsen programot, amely beolvassa a kiránduláson résztvevők számát majd
             megadja, hogy a háromféle kedvezményből melyiket kell igénybe venni, hogy a
             lehető legkevesebbe kerüljön a szállás.
-*/
+         */
 
             Console.Write("Kérem a kirándulás létszámát: ");
             int letszam = int.Parse(Console.ReadLine());
