@@ -10,17 +10,13 @@ namespace CiklusWhile00
     {
         static void Main(string[] args)
         {
-            Random rnd = new Random();
-            int szam = 0;
-            int i = 6;
+            //0 végjelig kérjünk be számokat és írjuk ki az összegüket és átlagukat.
 
-            while (i < 5)
-            {
-                szam = rnd.Next(1, 100);
-                Console.Write("{0} ", szam);
-                i++;
-            }
+            int db = 0;
+            double osszeg = 0;
+            int be = 0;
 
+            
             Console.ReadLine();
 
         }
