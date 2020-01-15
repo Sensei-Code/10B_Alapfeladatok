@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CiklusHasonlitas", "CiklusH
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CiklusFibonacci", "CiklusFibonacci\CiklusFibonacci.csproj", "{9552B372-3FF5-4A56-91AA-71D539C45D8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ciklus0vegjel", "Ciklus0vegjel\Ciklus0vegjel.csproj", "{4D7E8615-4145-4982-95D0-3A5A151EB8B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{9552B372-3FF5-4A56-91AA-71D539C45D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9552B372-3FF5-4A56-91AA-71D539C45D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9552B372-3FF5-4A56-91AA-71D539C45D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D7E8615-4145-4982-95D0-3A5A151EB8B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7E8615-4145-4982-95D0-3A5A151EB8B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D7E8615-4145-4982-95D0-3A5A151EB8B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7E8615-4145-4982-95D0-3A5A151EB8B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
