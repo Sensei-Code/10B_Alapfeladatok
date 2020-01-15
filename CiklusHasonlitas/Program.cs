@@ -47,9 +47,6 @@ namespace CiklusHasonlitas
             else Console.WriteLine("A nagyobb szám a B ({0})",b);
 
             Console.ReadLine();
-
-
-
         }
     }
 }
