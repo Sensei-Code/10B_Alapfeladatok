@@ -88,7 +88,9 @@ namespace SzovegesValtozok
             Console.WriteLine("Szöveg = {0}", s);
             Console.WriteLine("A szöveg 1. karakternél kezdődő és az 5-nél végződő részlete: {0}", s.Substring(0, 5));
             Console.WriteLine("A szöveg 6. karakterétől kezdődő részlet: {0}",s.Substring(5));
-            
+
+
+
             Console.WriteLine("\nKERESÉS A SZÖVEGBEN\n");
             
             char keresett = 't';

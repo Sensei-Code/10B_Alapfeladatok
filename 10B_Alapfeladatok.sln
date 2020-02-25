@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ciklus0vegjel", "Ciklus0veg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SzovegesValtozok", "SzovegesValtozok\SzovegesValtozok.csproj", "{77CD2B26-4690-4EA7-9D54-061A76725C67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringOdaVissza", "StringOdaVissza\StringOdaVissza.csproj", "{5252E9E8-C8E4-41DD-9915-4837C5B01EDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SzovegesSzGep", "SzovegesSzGep\SzovegesSzGep.csproj", "{0C47E3ED-1525-4081-B2FA-C0FFCBD02237}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{77CD2B26-4690-4EA7-9D54-061A76725C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77CD2B26-4690-4EA7-9D54-061A76725C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77CD2B26-4690-4EA7-9D54-061A76725C67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5252E9E8-C8E4-41DD-9915-4837C5B01EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5252E9E8-C8E4-41DD-9915-4837C5B01EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5252E9E8-C8E4-41DD-9915-4837C5B01EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5252E9E8-C8E4-41DD-9915-4837C5B01EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C47E3ED-1525-4081-B2FA-C0FFCBD02237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C47E3ED-1525-4081-B2FA-C0FFCBD02237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C47E3ED-1525-4081-B2FA-C0FFCBD02237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C47E3ED-1525-4081-B2FA-C0FFCBD02237}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
