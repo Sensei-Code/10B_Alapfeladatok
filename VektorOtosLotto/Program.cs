@@ -29,7 +29,7 @@ namespace VektorOtosLotto
                 egyezes = false;
 
                 //legenerálom a véletlen számot
-                veletlen = r.Next(1, 6);
+                veletlen = r.Next(1, 99);
              
                 //Megvizsgálom a tömbömet, hogy van-e már benne a veletlen
                 //változó értékével megegyező szám. A ciklus 0-tól db-ig fut, tehát
